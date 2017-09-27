@@ -1,0 +1,64 @@
+body {
+    width: 100%;    
+    margin-top: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    padding-bottom: 100px;
+    font-size: 16;
+    font-family: "Roboto";       
+    color: #391900;
+    background-color: #fdf3e9;
+}
+
+nav {
+    height: 40px;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #764212;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    position: absolute;
+    margin-top: -125px;
+    margin-left: 175px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+a:link {
+        color: #391900;
+}
+
+#mainblock {
+    margin-left: 5%;
+    margin-top: 65px;
+    padding-left: 5%;
+    padding-top: 30px;
+    border-left: 2px solid;
+    border-color: #764212;
+}
+
+.userblock {
+   padding-bottom: 30px;
+}
+
+.avatar {
+        border-radius: 225px; 
+}
+
+.userinfo {
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 175px;
+    margin-bottom: 20px;
+    
+}
