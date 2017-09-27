@@ -1,1 +1,1 @@
-# lab1
+https://yungshinobi.github.io/lab1/
